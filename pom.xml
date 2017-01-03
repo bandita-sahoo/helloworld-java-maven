@@ -26,7 +26,7 @@
   <snapshotRepository>
 <id>deployment</id>
 <name>Internal Releases</name>
-<url>http://54.171.181.80:8081/nexus/content/repositories/cts-hosted-snapshot/</url>
+<url>http://54.194.60.157:8081/nexus/content/repositories/pyramid/</url>
 </snapshotRepository>
 </distributionManagement>
 
